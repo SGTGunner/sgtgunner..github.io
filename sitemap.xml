@@ -3,38 +3,38 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://sgtgunner.github.io:1313/post/welcome/</loc>
+    <loc>https://sgtgunner.github.io/post/welcome/</loc>
     <lastmod>2018-09-03T13:36:59-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://sgtgunner.github.io:1313/about/desc/</loc>
+    <loc>https://sgtgunner.github.io/about/desc/</loc>
   </url>
   
   <url>
-    <loc>https://sgtgunner.github.io:1313/about/</loc>
+    <loc>https://sgtgunner.github.io/about/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://sgtgunner.github.io:1313/categories/</loc>
+    <loc>https://sgtgunner.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://sgtgunner.github.io:1313/post/</loc>
-    <lastmod>2018-09-03T13:36:59-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://sgtgunner.github.io:1313/</loc>
+    <loc>https://sgtgunner.github.io/post/</loc>
     <lastmod>2018-09-03T13:36:59-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://sgtgunner.github.io:1313/tags/</loc>
+    <loc>https://sgtgunner.github.io/</loc>
+    <lastmod>2018-09-03T13:36:59-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://sgtgunner.github.io/tags/</loc>
     <priority>0</priority>
   </url>
   
