@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on SGTGunner.io</title>
-    <link>https://sgtgunner.github.io/post/</link>
+    <link>https://www.sgtgunner.io/post/</link>
     <description>Recent content in Posts on SGTGunner.io</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 03 Sep 2018 13:36:59 -0700</lastBuildDate>
     
-	<atom:link href="https://sgtgunner.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.sgtgunner.io/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Welcome</title>
-      <link>https://sgtgunner.github.io/post/welcome/</link>
+      <link>https://www.sgtgunner.io/post/welcome/</link>
       <pubDate>Mon, 03 Sep 2018 13:36:59 -0700</pubDate>
       
-      <guid>https://sgtgunner.github.io/post/welcome/</guid>
+      <guid>https://www.sgtgunner.io/post/welcome/</guid>
       <description>Welcome to the new SGTGunner web site!
 Enjoy and look around.
 More information coming soon!</description>
